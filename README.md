@@ -1,6 +1,6 @@
 # Hello, I'm nameXDD!
 
-#### Actually I'm automation engineer 👷🏼 and working with electrical and automatic systems.
+#### Actually I'm automation engineer 👷🏼 and working with electrical and automatical systems.
 More information you can find here > https://spaju.engineering
 
 ###### It's all about my real life . . .
