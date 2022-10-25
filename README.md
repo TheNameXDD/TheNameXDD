@@ -9,11 +9,10 @@ More information you can find here > https://spaju.engineering
 
 ### Which software I'm using for working
 
-1. RobotStudio - my must lovely software which I can use for programming ABB robots (all types)
+1. RobotStudio - my must lovely software which I can use for programming ABB robots
 2. CIROS - usually I'm using FESTO software for automation training
 3. TIA portal - Siemens SIMATIC S-series programming and setup HMI displays
 4. AutoCAD (MEP, EL, INVENTOR) and SketchUP - drawings :)
 5. Sublime Text, Web Storm and MS Visual Code - for programming (Java, JS, C++)
-6. CADe SIMU - lovely software for modeling electrical networks
 
 For network training I'm using > Cisco pocket Tracer, Wireshark and more
