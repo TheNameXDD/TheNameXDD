@@ -1,18 +1,19 @@
 # Hello, I'm nameXDD!
 
-#### Actually I'm automation engineer 👷🏼 and working with electrical and automatical systems.
+#### My name is Sander and I'm discrete automation, robotics and PLC engineer. I love technoligies and programming!
 More information you can find here > https://spaju.engineering
 
-###### It's all about my real life . . .
+###### Right now working on startup for building automation solutions
 
 ### 
 
-### Which software I'm using for working
+### What software I prefer
 
-1. RobotStudio - my must lovely software which I can use for programming ABB robots
-2. CIROS - usually I'm using FESTO software for automation training
-3. TIA portal - Siemens SIMATIC S-series programming and setup HMI displays
-4. AutoCAD (MEP, EL, INVENTOR) and SketchUP - drawings :)
-5. Sublime Text, Web Storm and MS Visual Code - for programming (Java, JS, C++)
-
-For network training I'm using > Cisco pocket Tracer, Wireshark and more
+1. RobotStudio - software for programming ABB robots and discrete automation systems 
+2. CIROS - FESTO software for mechatronics training
+3. TIA portal - Siemens SIMATIC S-series programming and setup HMI panels
+4. Autodesk software - project drawings and schemes
+5. Sublime Text, Web Storm and MS Visual Code - for programming (Java, JS, C++, RAPID)
+6. Loxone configt - Loxone building automation controllers programming
+7. MS Visio - for visualization of my ideas
+8. Postman / Swagger - Rest api creating and testing
